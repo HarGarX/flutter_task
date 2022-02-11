@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "557564658762",
+    "firebase_url": "https://flutter-task-7cc66-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutter-task-7cc66",
+    "storage_bucket": "flutter-task-7cc66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557564658762:android:1e1c1cc22719a4e28092b3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_task_remote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557564658762-r6nh2aahka14g7r7j3p1d8n9lf5hdt25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBELdnvAla-lD3608qOfwGZDyjcSJEJFeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557564658762-r6nh2aahka14g7r7j3p1d8n9lf5hdt25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
